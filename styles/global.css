@@ -23,28 +23,28 @@
 
 }
 
-body{
+body {
     font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
 }
 
-a{
+a {
     text-decoration: none;
     color: inherit;
 }
 
-a:hover{
+a:hover {
     color: var(--brand-color-light);
 
 }
 
-h1, h2, h3{
+h1, h2, h3 { 
     font: inherit;
 
 }
 
-img{
+img {
     max-width: 100%;
 }
 

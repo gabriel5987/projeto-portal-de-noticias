@@ -1,4 +1,4 @@
-section header{
+section header {
     border-top: 1px solid var(--stroke-color);
     padding-block: 12px 24px; 
     font: var(--text-span);
@@ -20,7 +20,7 @@ section header{
     }
 }
 
-#featured{
+#featured {
     img{
         height: 100%;
         object-fit: cover;
@@ -61,20 +61,20 @@ section header{
     }
 }
 
-#weekly{
+#weekly {
 
     &>div {
     grid-template-columns: repeat(4, 292px);
 }
 
-    img{
+    img {
         height: 160px;
     }
 
-    figure{
+    figure {
         position: relative;
 
-        .content-tag{
+        .content-tag {
             position: absolute;
             top: 8px;
             left: 8px;
